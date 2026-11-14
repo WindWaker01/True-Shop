@@ -1,5 +1,7 @@
 # True-Shop
 Shop for shoes
-Owner: Davletov
+Owner: Davletov Ainur
 
-C#, MySQL
+Stake: C#, MySQL
+
+status: in process

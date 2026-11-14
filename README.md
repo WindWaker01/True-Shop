@@ -5,4 +5,4 @@ Owner: Davletov Ainur
 
 Stake: C#, MySQL
 
-status: in process
+Status: in process
